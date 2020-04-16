@@ -1,0 +1,10 @@
+package resources
+
+opts = "--highlight"
+
+modules = Resources
+
+        , Example.Files
+        , Example.Sessions
+        , Example.BiGraph
+        , Example.EdgeBoundedGraph
